@@ -1,6 +1,0 @@
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/KafkaStreamSerdesApp.java
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/config/JsonDeserializer.java
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/config/CustomSerdes.java
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/entities/Person.java
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/entities/PersonAgg.java
-/Users/joaomeireles/Desktop/projects/java/microservices/kafka-streams/kafka-streams-custom-serdes/src/main/java/dev/jveloper/config/JsonSerializer.java
